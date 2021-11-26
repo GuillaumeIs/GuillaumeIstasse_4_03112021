@@ -45,7 +45,7 @@ a:hover {
 }
 
 .bloc-lg {
-    padding: 100px 50px;
+    padding: 75px 50px;
 }
 
 .bloc-md {
@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: "fff;
 }
 
 .d-bloc button:hover {
@@ -270,6 +270,10 @@ a:hover {
 
 .voffset-lg {
     margin-top: 80px;
+}
+
+.row {
+	margin-top: 18.6px;
 }
 
 .row-no-gutters {
@@ -651,7 +655,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+	color: #333333!important;
 }
 
 .container {
@@ -767,7 +771,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #fff;
 }
 
 .bgc-atomic-tangerine {
@@ -780,7 +784,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .btn-atomic-tangerine:hover {
